@@ -101,7 +101,7 @@ const KLCPopupLayout KLCPopupLayoutCenter = { KLCPopupHorizontalLayoutCenter, KL
     self.showType = KLCPopupShowTypeShrinkIn;
     self.dismissType = KLCPopupDismissTypeShrinkOut;
     self.maskType = KLCPopupMaskTypeDimmed;
-    self.dimmedMaskAlpha = 0.5;
+    self.dimmedMaskAlpha = 0.8;
     
     _isBeingShown = NO;
     _isShowing = NO;
